@@ -1,4 +1,3 @@
-# VladislavMaievskyi
 <h1 align="center">Hi, I'm Vladyslav Maievskyi 👋</h1>
 
 <p align="center">
